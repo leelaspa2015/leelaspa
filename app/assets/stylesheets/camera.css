@@ -204,7 +204,7 @@ float:none;
 	z-index: 2;
 }
 .camera_target_content .camera_link {
-    background:;
+    background: none;
 	display: block;
 	height: 100%;
 	text-decoration: none;
