@@ -1,0 +1,245 @@
+
+@media only screen and (min-width: 1200px)
+{
+.phone p
+{
+margin-right:0;
+}
+
+
+.cameracaption1 {
+margin-right:13%;
+}
+
+.subscribefield
+{float:left;
+width:65%;
+margin-right:5px;
+}
+
+}
+
+
+@media only screen and (max-width: 1000px){
+
+
+.pageheadline .ch-grid1 li {
+margin-bottom:44px;
+}
+.pageheadline h2{
+margin-top:0;
+}
+
+.tabinside .span3,
+.tabinside .span7,
+.tabinside .span2{
+width:99%;
+
+}
+.tabinsidelast .span3,
+.tabinsidelast .span7,
+.tabinsidelast .span2,
+.tab-content .span12{
+width:96%;
+}
+.tabinside{
+border:none;
+}
+
+
+.pageheadline .span6{
+width:99%;
+margin-top:21px;
+}
+
+
+.circleimage1{
+width:220px;
+height:220px;
+}
+
+.circleimage2{
+width:220px;
+height:220px;
+}
+.footerheadline h4{
+background:  none;
+}
+
+.box:before, .box:after {
+display:none;
+}
+
+ .box:after {
+display:none;
+}
+
+
+.cameracaption1 p{
+display:none;
+}
+
+.headlinesidebar h4{
+background:  none;
+}
+
+}
+
+
+@media only screen and (max-width: 830px){
+
+.recentnewsrow h4{
+line-height:1;
+margin-bottom:11px;
+}
+.recentnewsrow img{
+padding-bottom:21px;
+}
+.recentnewsrow {
+padding-bottom:21px;
+}
+
+.buypresent1{
+width:97%;
+padding:2%;
+margin-bottom:0;
+}
+.buypresent1 a{
+margin-bottom:20px;
+}
+.buypresent2{
+width:97%;
+padding:2%;
+margin-top:0;
+}
+.sendgiftnow{
+margin-bottom:20px;
+}
+
+
+.tabs2 li{
+float:none;
+}
+
+.commentsright{
+}
+
+.comments a{
+margin-top:0;
+}
+.commentsright{
+float:none;
+
+}
+
+.footer {
+background:#6d0b45 url(../assets/galleryimagebg.png) repeat;
+}
+
+
+.sidebarabout4 .ch-grid3{
+float:none;
+margin-bottom:0;
+}
+
+}
+
+
+@media only screen and (max-width: 768px){
+.underslider{
+float:none;
+}
+
+
+.staff {
+text-align:center;
+}
+
+
+.container {
+padding:0 10px;
+}
+
+
+.photos .photo {
+  max-width:100%;
+  margin:0 auto;
+  float:none;
+
+}
+
+.photos .photo2 {
+  max-width:100%;
+  margin:0 auto;
+  float:none;
+}
+
+
+}
+
+
+@media only screen and (max-width: 600px){
+
+.pageheadline .ch-grid1 li {
+width: 70px;
+height: 70px;
+margin: 5px 5px 30px 0;
+}
+.pageheadline h2{
+font-size:35px;
+}
+
+.pageheadline h2 span{
+font-size:14px;
+}
+
+
+}
+
+
+
+@media only screen and (max-width: 400px){
+
+#main input{
+width:96%;
+}
+
+.accordion1 .accordion-heading a{
+margin-left:35px;
+}
+
+
+.view a {
+margin-top:20px;
+}
+
+
+.columnheadline h3 span{
+padding-right:10px;
+background:#fff  ;
+}
+.columnheadlineabout h4 span{
+padding-right:10px;
+background:#fff  ;
+}
+
+.columnheadlineabout1 h4 span{
+padding-right:10px;
+background:#fff  ;
+}
+
+}
+
+
+@media only screen and (max-width: 300px)
+{
+.view h2 {
+display:none;
+}
+
+.view p {
+display:none;
+}
+
+
+}
