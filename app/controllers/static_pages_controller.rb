@@ -40,4 +40,16 @@ class StaticPagesController < ApplicationController
 
   def special
   end
+
+  def massages    
+  end
+
+  def esthetics    
+  end
+
+  def waxing    
+  end
+
+  def esthetician    
+  end
 end
