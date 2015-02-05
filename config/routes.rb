@@ -35,7 +35,9 @@ Leela::Application.routes.draw do
   match '/esthetics', to: 'static_pages#esthetics', via: 'get'
   match '/waxing', to: 'static_pages#waxing', via: 'get'
   match '/esthetician', to: 'static_pages#esthetician', via: 'get'
+  match '/therapist', to: 'static_pages#therapist', via: 'get'
 
+  
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

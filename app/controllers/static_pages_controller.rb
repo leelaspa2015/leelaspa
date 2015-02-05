@@ -52,4 +52,7 @@ class StaticPagesController < ApplicationController
 
   def esthetician    
   end
+
+  def therapist    
+  end
 end
