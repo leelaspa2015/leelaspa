@@ -55,4 +55,28 @@ class StaticPagesController < ApplicationController
 
   def therapist    
   end
+
+  def yoga_classes    
+  end
+
+  def yoga_little_happies    
+  end
+
+  def yoga_schedule    
+  end
+
+  def yoga_yogis    
+  end
+
+  def natural_acupuncture    
+  end
+
+  def natural_medical_healing    
+  end  
+
+  def natural_wellness    
+  end
+
+  def natural_practitioners    
+  end
 end

@@ -160,14 +160,14 @@ background-attachment:fixed;
 .navbar {
   position: relative;
   z-index: 900;
-height:120px;
-margin:0;
-float:left;
+  height:120px;
+  margin:0;
+  float:left;
   margin-bottom: 0;
   background: #fff;
   border-radius: 0;
-width:100%;
-margin:0;
+  width:100%;
+  margin:0;
 }
 
 .nav {
@@ -195,7 +195,8 @@ margin:0;
   position: relative;
   display: inline-block;
   margin-bottom: 0;
-height:120px;
+  height:120px;
+  margin-top: -1px;
 }
 
 .nav > li.dropdown {
@@ -639,7 +640,7 @@ background: url(../assets/decoration.png) center center no-repeat;
 
 .button1 a:link, .button1 a:visited{
 width:158px;
-height:35px;
+height:50px;
 margin-bottom:21px;
 text-transform:uppercase;
 font-family:open sans;
@@ -732,7 +733,7 @@ color:#f9e3ca;
 display:block;
 
 width:158px;
-height:35px;
+height:50px;
 margin-bottom:21px;
 text-transform:uppercase;
 font-family:open sans;
@@ -1779,6 +1780,18 @@ border-bottom:1px dashed #821e58;
 margin-bottom:30px;
 padding-bottom:21px;
 }
+
+.staff1 { 
+border-bottom:1px dashed #821e58;
+margin-bottom:30px;
+padding-bottom:21px;
+}
+
+.staff1 h5{ 
+color:#7d1d55;
+font-size:24px;
+}
+
 .paddingbottom1 { 
 padding-bottom:21px;
 }
@@ -2887,7 +2900,7 @@ color:#facd95;
 }
 .servicehour {
 float:right; 
-margin-right:40px;
+margin-right:15px;
 margin-top:10px;
 }
 
@@ -2920,8 +2933,18 @@ color:#7d1d55;
         General 
   ####################*/
 
+.pad_top1 {
+  padding-top: 1em;
+}
+
 .pad_top2 {
   padding-top: 2em;
+}
+
+.underline_dotted { 
+border-bottom:1px dashed #821e58;
+margin-bottom:30px;
+padding-bottom:21px;
 }
 
 

@@ -36,6 +36,14 @@ Leela::Application.routes.draw do
   match '/waxing', to: 'static_pages#waxing', via: 'get'
   match '/esthetician', to: 'static_pages#esthetician', via: 'get'
   match '/therapist', to: 'static_pages#therapist', via: 'get'
+  match '/yoga-classes', to: 'static_pages#yoga_classes', via: 'get'
+  match '/little-happies', to: 'static_pages#yoga_little_happies', via: 'get'
+  match '/yoga-schedule', to: 'static_pages#yoga_schedule', via: 'get'
+  match '/our-yogis', to: 'static_pages#yoga_yogis', via: 'get'
+  match '/acupuncture', to: 'static_pages#natural_acupuncture', via: 'get'
+  match '/medical-intuitive-healing', to: 'static_pages#natural_medical_healing', via: 'get'
+  match '/nutritional-wellness', to: 'static_pages#natural_wellness', via: 'get'
+  match '/our-practitioners', to: 'static_pages#natural_practitioners', via: 'get'
 
   
   # The priority is based upon order of creation: first created -> highest priority.
