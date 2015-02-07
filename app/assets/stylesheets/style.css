@@ -1904,7 +1904,7 @@ font-weight:normal;
 
 .sidebarabout3 { 
 border-bottom:1px dashed #821e58;
-padding-bottom:33px;
+padding-bottom:0px;
 }
 .sidebarabout3 li{ 
 margin-bottom:11px;
@@ -2397,7 +2397,7 @@ box-shadow:none;
 }
 .comment3 input{
 margin-bottom:21px;
-width:96%;
+width:100%;
 padding-left:2%;
 float:left;
 color:#811d56;
@@ -2411,10 +2411,10 @@ height:30px;
 box-shadow:none;
 }
 .textarea textarea{
-width:96%;
+width:100%;
 padding-left:2%;
 padding-top:2%;
-height:220px;
+height:auto;
 float:left;
 margin-bottom:21px;
 color:#811d56;
@@ -2941,10 +2941,18 @@ color:#7d1d55;
   padding-top: 2em;
 }
 
+.mar_top_m1 {
+  margin-top: -1em;
+}
+
 .underline_dotted { 
 border-bottom:1px dashed #821e58;
 margin-bottom:30px;
 padding-bottom:21px;
+}
+
+.underline_dotted1 { 
+border-bottom:1px dashed #821e58;
 }
 
 
